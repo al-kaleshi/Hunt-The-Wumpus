@@ -7,24 +7,12 @@ You are in room 4. You hear rustling of bat wings.
 
 1. Enter your move (or 'D' for directions): d
 
-       ______18______             
-      /      |       \           
-     /      _9__      \          
-    /      /    \      \        
-   /      /      \      \       
-  17     8        10     19       
-  | \   / \      /  \   / |    
-  |  \ /   \    /    \ /  |    
-  |   7     1---2     11  |       
-  |   |    /     \    |   |      
-  |   6----5     3---12   |       
-  |   |     \   /     |   |      
-  |   \       4      /    |      
-  |    \      |     /     |      
-  \     15---14---13     /       
-   \   /            \   /       
-    \ /              \ /        
-    16---------------20           
+
+
+<img width="202" alt="Screenshot 2022-12-12 at 5 34 07 AM" src="https://user-images.githubusercontent.com/105519379/207035313-74422fa1-7b6f-4f56-8d91-06c490a4cede.png">
+
+
+
 
 Hunt the Wumpus:                                             
 The Wumpus lives in a completely dark cave of 20 rooms. Each 
